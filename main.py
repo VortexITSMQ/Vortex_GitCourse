@@ -1,8 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-//ESCRIBAN AQUI
-
-int main() {
-
-}
+def multiplicacion(a,b):
+    c = a * b
+    print(c)
+    
