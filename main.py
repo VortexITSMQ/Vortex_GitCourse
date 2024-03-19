@@ -1,8 +1,6 @@
-#include <bits/stdc++.h>
-using namespace std;
+def division(a, b):
+    
+    r = a/b
+    print("La division es: ", r)
 
-//ESCRIBAN AQUI
-
-int main() {
-
-}
+division(6, 8)
