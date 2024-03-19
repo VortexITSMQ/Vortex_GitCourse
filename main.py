@@ -1,8 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
+def suma():
+    a = 5
+    b =10
+    sum = a + b
+    print(suma)
 
-//ESCRIBAN AQUI
+suma()
 
-int main() {
-
-}
