@@ -1,8 +1,8 @@
-#include <bits/stdc++.h>
-using namespace std;
+def multiplicar(num1, num2):
+    resultado = num1 * num2
+    return resultado
 
-//ESCRIBAN AQUI
-
-int main() {
-
-}
+num1 = 5
+num2 = 10
+resultado = multiplicar(num1, num2)
+print("El resultado de la multiplicación es:", resultado)
