@@ -1,8 +1,7 @@
-#include <bits/stdc++.h>
-using namespace std;
+# piramide
 
-//ESCRIBAN AQUI
+def piramide(n):
+    for i in range(1, n+1):
+        print(" " * (n-i) + "*" * (2*i-1))
 
-int main() {
-
-}
+piramide(5)
