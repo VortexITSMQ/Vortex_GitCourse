@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def multiplicar(num1, num2):
     resultado = num1 * num2
     return resultado
@@ -7,7 +7,7 @@ num1 = 5
 num2 = 10
 resultado = multiplicar(num1, num2)
 print("El resultado de la multiplicación es:", resultado)
-=======
+
 # piramide
 
 def piramide(n):
@@ -15,4 +15,4 @@ def piramide(n):
         print(" " * (n-i) + "*" * (2*i-1))
 
 piramide(5)
->>>>>>> fb4101264bf08e082af97b1290ddcc1134d99f3c
+
